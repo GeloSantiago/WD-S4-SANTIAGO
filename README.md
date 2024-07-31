@@ -9,7 +9,7 @@
    <img src="https://tse4.mm.bing.net/th?id=OIP.uWkwL8wWRyyyo8h4s6v1vQHaGT&pid=Api&P=0&h=220" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD-S-4-SANTIAGO-Features</h3>
+  <h3 align="center">WD-S4-SANTIAGO-Features</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
