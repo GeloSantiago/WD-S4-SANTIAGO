@@ -140,15 +140,13 @@ WD-Seatwork-4
 
 ## Resources
 
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-| Google Font | Change font to PT Sans Narrow | https://fonts.google.com/specimen/PT+Sans+Narrow |
-| Google Font | Change font to Manrope | https://fonts.google.com/specimen/Manrope?query=manrope |
-| Bootstrap | Provides a collection of syntax for template designs | https://getbootstrap.com/ |
-| Grunge Loop Overlay | Landing Page Visual | https://youtu.be/0fpV2vVcvp0?si=V00tMLSJenLGpXZB |
-| Feature display theme inspo | Feature Display Contents | https://camkode.com/posts/building-a-responsive-image-slider-with-html-css-and-javascript |
-| Carousel |  https://github.com/codewithsadee/gamics |
-| Responsive Carousel Web Design | Feature 2 Visual | https://youtu.be/B5LJtXf6QTY?si=-cl7eOiiKZJl7VF0 |
-| Sliders | For my contents | https://github.com/stevenwanderski/bxslider-4 |
-| Cover flow Website | Website Inspiration | https://makedreamwebsite.com/elementor-advanced-slider-with-card-carousel/ |
+| Title        | Purpose                                        | Link                                               |
+| ------------ | ---------------------------------------------- | -------------------------------------------------- |
+|         | Responsive Carousel Web Design. | https://youtu.be/B5LJtXf6QTY?si=-cl7eOiiKZJl7VF0                              |
+|  Website Inspiration   | Cover flow Website. |https://makedreamwebsite.com/elementor-advanced-slider-with-card-carousel/                            |
+| Pexel        | Download some free images for the product.     | https://www.pexels.com/search/crocs%20shoes/       |
+| Google Font  | Use the poppins font style.                    | https://fonts.google.com/selection/embed           |
+| Font Awesome | Use some icons for footer.                     | https://fontawesome.com/kits/6baf9c22b9/setup      |
+| w3schools    | Get some ideas or tutorial for css.            | https://www.w3schools.com/css/css3_backgrounds.asp |
+
 
